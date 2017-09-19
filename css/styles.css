@@ -1,12 +1,4 @@
-h1 {
-  color: #22E4A6;
-  text-align: center;
-}
 
-h2 {
-  text-align: center;
-  color: #C1F1E2;
-}
 img {
   margin: auto;
   display: block;
@@ -18,8 +10,20 @@ p.intro {
 .flashy {
   font-style: italic;
   color: #EDB829 ;
+  text-align: center;
 }
 .best {
   color: red;
   background-color: yellow;
 }
+
+.other {
+  color: #755705;
+  font-style: bold;
+}
+p {
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  }
