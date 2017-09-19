@@ -1,0 +1,25 @@
+h1 {
+  color: #22E4A6;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: #C1F1E2;
+}
+img {
+  margin: auto;
+  display: block;
+}
+
+p.intro {
+  color: #0CA978;
+}
+.flashy {
+  font-style: italic;
+  color: #EDB829 ;
+}
+.best {
+  color: red;
+  background-color: yellow;
+}
